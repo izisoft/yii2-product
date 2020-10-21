@@ -1,4 +1,4 @@
-# Yii2 router extention
+# Yii2 product extention
 Get & set Module, Controller, Action from DB (slugs table).
 
 1. Frontend
